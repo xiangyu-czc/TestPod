@@ -9,7 +9,7 @@ s.homepage     = "https://github.com/xiangyu-czc/TestPod"
 s.license      = { :type => "MIT", :file => "LICENSE" }
 s.author             = { "项羽" => "lizhiwei@newborn-town.com" }
 s.source       = { :git => "https://github.com/xiangyu-czc/TestPod.git", :tag => "#{s.version}" }
-s.source_files  = "TestPod/TestPod/*.{h,m}"
+s.source_files  = "TestPod/Test/*.{h,m}"
 #s.exclude_files = "Classes/Exclude"
 
 end
